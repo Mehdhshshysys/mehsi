@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "user_id": 123456789,
+      "username": "یک بنده خدا",
+      "first_name": "Mehdi",
+      "last_name": "محمدی",
+      "join_date": "2026-06-11",
+      "status": "فعال"
+    }
+  ]
+}
